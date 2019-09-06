@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567678853 source:/home/useownyxis/programming/Cplusplus/firstlab/main.cpp
+	<iostream>
+	"ArrayClass.h"
+
+1567678885 /home/useownyxis/programming/Cplusplus/firstlab/include/ArrayClass.h
+

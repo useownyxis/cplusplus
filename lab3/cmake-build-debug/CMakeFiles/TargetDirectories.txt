@@ -1,0 +1,3 @@
+/home/useownyxis/programming/Cplusplus/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/useownyxis/programming/Cplusplus/lab3/cmake-build-debug/CMakeFiles/lab3.dir
+/home/useownyxis/programming/Cplusplus/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir

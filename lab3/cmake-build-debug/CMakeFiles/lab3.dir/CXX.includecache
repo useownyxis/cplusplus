@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/useownyxis/programming/Cplusplus/lab3/String.h
+iostream
+-
+
+/home/useownyxis/programming/Cplusplus/lab3/main.cpp
+iostream
+-
+String.h
+/home/useownyxis/programming/Cplusplus/lab3/String.h
+
